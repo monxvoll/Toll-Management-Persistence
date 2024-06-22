@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TollManagementPersistence:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TollManagementPersistence_jar</output-path>
+    <root id="archive" name="TollManagementPersistence.jar">
+      <element id="module-output" name="TollManagementPersistence" />
+    </root>
+  </artifact>
+</component>
